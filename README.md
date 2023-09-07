@@ -1,1 +1,1 @@
-# Boostore
+# Boosstore
